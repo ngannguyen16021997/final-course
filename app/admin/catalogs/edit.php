@@ -21,6 +21,7 @@
     <link rel="stylesheet" type="text/css" href="../../../public/css/custom.css">
   </head>
   <body>
+  <?php include "../../menucon.php"; ?> 
   <div class="wrapper">
     <form method="post" action="update.php">
       <input type="hidden" value="<?php echo $id; ?>" name="id">

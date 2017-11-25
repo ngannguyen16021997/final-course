@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="../../../public/css/custom.css">
 </head>
 <body>
-  <!-- <?php include "../../menucon.php"; ?> -->
+  <?php include "../../menucon.php"; ?>
   <div class="container">
   <h2>Danh sach nguoi dung</h2>
   <table class="table">
