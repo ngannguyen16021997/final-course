@@ -9,4 +9,6 @@
     <link href="../public/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="../public/css/shop-homepage.css?v=1.0" rel="stylesheet">
+    <link href="../public/css/shop-homepage.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../public/css/css.css">
+    <link rel="stylesheet" type="text/css" href="../public/fontawesome/css/font-awesome.min.css">
