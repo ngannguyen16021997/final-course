@@ -1,4 +1,5 @@
 <?php require_once "../../../db/mysql.php"; ?>
+<?php require_once "../../check-login.php"; ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,6 +16,7 @@
       <tr>
         <th>Name</th>
         <th>Email</th>
+        <th>Pass</th>
         <th>Role</th>
         <th>#</th>
         <th>#</th>
@@ -29,6 +31,7 @@
         <tr>
           <td><?php echo $row['name']; ?></td>
           <td><?php echo $row['email']; ?></td>
+          <td><?php echo $row['password']; ?></td>
           <td><?php switch ($row['role']) {
             case 0:
               echo "Admin";

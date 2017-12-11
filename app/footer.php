@@ -6,7 +6,7 @@
 					<div class="title-footer"><span>Liên lạc</span></div>
 					<ul class="footer-icon">
 						<li><span><i class="fa fa-map-marker"></i></span> 70 Nguyễn Huệ, Phường Vĩnh Ninh, TP.Huế</li>
-						<li><span><i class="fa fa-phone"></i></span><a href="tel:113"> +123-456-789</a></li>
+						<li><span><i class="fa fa-phone"></i></span><a href="tel:113"> 0964 844 016</a></li>
 						<li><span><i class="fa fa-envelope"></i></span> <a href="mailto:Ngan.NguyenVan01@students.hueic.edu">Ngan.NguyenVan01@students.hueic</a></li>
 					</ul>
 				</div>

@@ -1,4 +1,5 @@
 <?php require_once "../../../db/mysql.php"; ?>
+<?php require_once "../../check-login.php"; ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,7 +10,7 @@
 <body>
   <?php include "../../menucon.php"; ?>
   <div class="container">
-  <h2>Danh sach nguoi dung</h2>
+  <h2>Danh Sách Sản Phẩm</h2>
   <table class="table">
     <thead>
       <tr>

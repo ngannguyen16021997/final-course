@@ -123,3 +123,11 @@ h5{
 .myli:hover{
 	background: #555;
 }
+.page-item-active a{
+   background: #36d1c2;
+   color: white;
+}
+.page-item-active a:hover{
+	background: yellow;
+	color: #000000;
+}

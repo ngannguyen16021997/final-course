@@ -1,5 +1,6 @@
 <?php require_once "../../../db/mysql.php"; ?>
-<?php session_start(); ?>
+<?php require_once "../../check-login.php"; ?>
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -18,7 +19,7 @@
         <h1>Ten san pham<m/h1>
       </div>
       <div class="row">
-        <label>Ten nguoi dung:</label>
+        <label>Ten san pham:</label>
         <input class="form-control" type="text" name="name">
       </div>
       <div class="row">
